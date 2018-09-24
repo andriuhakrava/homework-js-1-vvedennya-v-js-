@@ -1,0 +1,11 @@
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#butt {
+	display: inline-block;
+	padding: 10px;
+	border: 2px solid green;
+	cursor: pointer;
+}
