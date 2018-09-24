@@ -1,1 +1,1 @@
-# homework-js-1-vvedennya-v-js-
+#js-1-vvedennya-v-js-
