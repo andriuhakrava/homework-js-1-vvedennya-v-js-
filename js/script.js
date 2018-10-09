@@ -49,4 +49,4 @@ let c = 21;
 let result;
 
 result = a*b + c;
-console.log("Результат обчислення формули a * b + c: " + result);
+console.log("Результат обчислення формули: " + a + ' * ' + b + ' + ' + c + ' = ' + result);
